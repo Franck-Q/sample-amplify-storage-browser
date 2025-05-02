@@ -1,4 +1,4 @@
-# Amplify Storage Browser React+Vite Starter Template
+# Amplify Storage Browser React+ Vite Starter Template
 
 This repository provides a starter template for creating applications with Storage Browser for S3 using React+Vite and AWS Amplify, emphasizing easy setup for authentication and S3 capabilities.
 
